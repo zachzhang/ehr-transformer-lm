@@ -1,0 +1,6 @@
+*.csv
+*.p
+*.npy
+model/*
+*.bpe
+*.json
